@@ -10,5 +10,5 @@ COPY --chown=1000:100 data/uber_requests.csv data
 COPY --chown=1000:100 data/netflix_titles.csv data
 COPY --chown=1000:100 data/nyc_airbnb.csv data
 COPY --chown=1000:100 ./Correction_Netflix_and_Chill.ipynb .
-COPY --chown=1000:100 ./Correction_Uber_Notebook.ipynb .
-COPY --chown=1000:100 ./livecode_Airbnb_New-York.ipynb .
+COPY --chown=1000:100 ./Correction_Uber_Notebook.ipynb . 
+COPY --chown=1000:100 ./Correction_Livecode.ipynb .
