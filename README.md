@@ -1,5 +1,5 @@
-# Data analysis exercise for Noé Bootcamp (corrigé)
-During Noé program, participants get to learn how to analyze data thanks to python, jupyter notebook and libraries like pandas or seaborn. 
+# Data analysis exercise for Noé Bootcamp (correction)
+During [Noé Program](https://noe.pm), participants get to learn how to analyze data thanks to python, jupyter notebook and libraries like pandas or seaborn. 
 There are 4 exercises which are based on datasets found on **Kaggle**
 
 ## Details
